@@ -3,9 +3,6 @@
   box-sizing: border-box;
 }
 
-/* Navegacion  */
-
-
 .nav{
   border-bottom: 1px solid #d8d5d5;
   margin-top: -8px;
@@ -48,7 +45,6 @@
 
 }
 
-/* Comianza la barra de utilidades  */
 
 
 .util{
@@ -67,11 +63,6 @@
 .calendario{
   margin-left: 20px;
 }
-
-/* bloque de las cards  */
-
-/* cards */
-
 
 .clase1{
   margin-left: 16px;
@@ -106,7 +97,6 @@
   overflow:hidden;
   border: 1px solid #d8d5d5;
 }
-/* Top Half of card, image. */
 
 .prop-cabecera-clase
 {
@@ -134,7 +124,6 @@
   position:relative;  
   background-color: #202124;
 }
-/* Bottom Card Section */
 
 .prop-cuerpo
 {
