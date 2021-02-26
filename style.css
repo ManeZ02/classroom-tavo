@@ -39,11 +39,11 @@
 
 }
 
-.nav__title {
+.nav_title {
   margin: 0px 30px;
 }
 
-.nav__item {
+.nav_item {
   display: inline-block;
   margin: 0px 30px;
 }
