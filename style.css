@@ -1,0 +1,182 @@
+*
+{
+  box-sizing: border-box;
+}
+
+/* Navegacion  */
+
+
+.nav{
+  border-bottom: 1px solid #d8d5d5;
+  margin-top: -8px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.hamb{
+  margin: 16px;
+  cursor: pointer;
+}
+
+.logo{
+  margin-bottom: 12px;
+  cursor: pointer;
+  margin-right: 1040px;
+
+  
+}
+
+.mas{
+  margin-bottom: 14px;
+  margin-right: 16px;
+  cursor: pointer;
+
+}
+
+.puntos{
+  margin-bottom: 12px;
+  margin-right: 16px;
+  cursor: pointer;
+
+}
+.usuario{
+  width: 32px;
+  border-radius: 32px;
+  margin-bottom: 10px;
+  margin-right: 16px;
+  cursor: pointer;
+
+}
+
+/* Comianza la barra de utilidades  */
+
+
+.util{
+  margin-top: 28px;
+  margin-bottom: 28px;
+  margin-left: 16px;
+  display: flex;
+}
+
+.util a{
+  text-decoration: none;
+  margin-top:8px;
+  margin-left: 8px;
+}
+
+.calendario{
+  margin-left: 20px;
+}
+
+/* bloque de las cards  */
+
+/* cards */
+
+
+.clase1{
+  margin-left: 16px;
+  position: relative;
+}
+
+.clase2{
+  margin-top: -288px;
+  margin-left: 362px;
+  position: relative;
+}
+
+.clase3{
+  margin-top: -288px;
+  margin-left: 706px;
+  position: relative;
+}
+
+
+
+.tareas
+{
+  font-size:12px;
+}
+
+.prop-clase
+{
+  height:288px;
+  width:320px;
+  position:relative;
+  border-radius:16px;
+  overflow:hidden;
+  border: 1px solid #d8d5d5;
+}
+/* Top Half of card, image. */
+
+.prop-cabecera-clase
+{
+  height:96px;
+  width:320px;
+  padding:16px 32px;
+  position:relative;  
+  background-color: #b80672;
+}
+
+.prop-cabecera-clase_dos
+{
+  height:96px;
+  width:320px;
+  padding:16px 32px;
+  position:relative;  
+  background-color: #185ABC;
+}
+
+.prop-cabecera-clase_tres
+{
+  height:96px;
+  width:320px;
+  padding:16px 32px;
+  position:relative;  
+  background-color: #202124;
+}
+/* Bottom Card Section */
+
+.prop-cuerpo
+{
+  background-color: #ffffff;
+  height:192px;
+  width: 320px;
+  position:relative;
+  bottom:0em;
+  padding: 8px 16px;
+  text-align:left;
+}
+
+.prop-texto{
+text-align:left;
+position:Relative;
+color: #ffffff;
+font-size:16px;
+}
+
+.prop-perfil{
+    position: relative;
+    text-align: right;
+    margin-top: -50px;
+}
+.prop-perfil img{
+    border-radius: 50px;
+}
+.prop-fondo-clase{
+    border-top: 2px solid #d8d5d5;
+    margin-left: -16px;
+    margin-right: -16px;
+    margin-top: 64px;
+    padding-top: 10px;
+    padding-left: 224px;
+    padding-bottom: 16px;
+    align-items: right;
+}
+.colocacion{
+ height:37% ;
+}
+
+.ayuda{
+  position: relative;
+  margin-left: 16px;
+}
